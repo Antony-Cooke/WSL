@@ -8,3 +8,16 @@ git hub source : -
 
 origin  https://github.com/Antony-Cooke/WSL.git (fetch)
 origin  https://github.com/Antony-Cooke/WSL.git (push)
+
+Google Analytics added
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121910303-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-121910303-1');
+  </script>
+  
